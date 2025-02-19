@@ -1,15 +1,14 @@
 div {
-width: 300px;
+  width: 300px;
   border: 15px solid black;
-  padding: 30px;
-  margin: 450px;
-  background-color: transparent;
+  padding: 80px;
+  margin: 450px; color: black;
+  
   text-justify: distribute;
-
+  align-items: center;
 }
 
 .imagen {
-  border: 10px solid black;
   width: 315px;
   height: 220px;
   border: 10px;
