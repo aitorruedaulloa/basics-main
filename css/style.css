@@ -1,8 +1,7 @@
 div {
   width: 300px;
-  border: 15px solid black;
   padding: 80px;
-  margin: 450px; color: black;
+  background-color: white;
   
   text-justify: distribute;
   align-items: center;
@@ -12,7 +11,6 @@ div {
   width: 315px;
   height: 220px;
   border: 10px;
-
 
 }
 
@@ -28,5 +26,12 @@ a:hover {
   color: green;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  height: 200vh;
+  align-items: center;
 
+}
 
