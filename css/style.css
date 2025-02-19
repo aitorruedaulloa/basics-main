@@ -11,7 +11,12 @@ div {
   width: 315px;
   height: 220px;
   border: 10px;
+}
 
+.imagen2 {
+  width: 315px;
+  height: 250px;
+  border: 10px;
 }
 
 a:link  {
