@@ -1,0 +1,33 @@
+div {
+width: 300px;
+  border: 15px solid black;
+  padding: 30px;
+  margin: 450px;
+  background-color: transparent;
+  text-justify: distribute;
+
+}
+
+.imagen {
+  border: 10px solid black;
+  width: 315px;
+  height: 220px;
+  border: 10px;
+
+
+}
+
+a:link  {
+  color: blue;
+}
+
+a:visited {
+  color: turquoise;
+}
+
+a:hover {
+  color: green;
+}
+
+
+
